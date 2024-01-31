@@ -1,0 +1,4 @@
+Healthy
+RedRot
+Rust
+bacterial_blight

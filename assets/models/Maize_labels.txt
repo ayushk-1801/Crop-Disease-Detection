@@ -1,0 +1,4 @@
+Corn__common_rust
+Corn__gray_leaf_spot
+Corn__healthy
+Corn__northern_leaf_blight
