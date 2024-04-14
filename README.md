@@ -2,7 +2,7 @@
 ## Overview
 Crop Buddy is an innovative mobile application designed to assist farmers in detecting and managing crop diseases effectively. This app leverages advanced image processing and machine learning techniques to analyze images of crops and identify potential diseases. By providing timely and accurate information, Crop Buddy aims to empower farmers to take proactive measures to protect their crops and maximize their yields. **It has better accuracy than Google Lens.**
 
-This is a collaborative project with @arnesh2212
+This is a collaborative project with (arnesh2212)[[https://github.com/arnesh2212]]
 
 ## Getting Started
 To get started with Crop Buddy, follow these simple steps:
